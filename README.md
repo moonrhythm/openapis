@@ -4,7 +4,7 @@ Moon Rhythm's Open APIs
 
 ## QR Code Generator
 
-`https://qrserver.moonrhythm.io?generate.png?c=<content>`
+`https://qrserver.moonrhythm.io/generate.png?c=<content>`
 
 Parameters
 | Parameter | Description | Type | Default |
